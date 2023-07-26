@@ -1,7 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=Dannkol&icon=2&color=1)]()
 
-[![Mi Portafolio](https://img.shields.io/badge/🌎%20my%20profile-blue)](https://dannkol.github.io/portafolios/)
-
+<h1 align="center"> 
+👉
+<a href="https://dannkol.github.io/portafolios/" target="_blank">
+    <img src="https://img.shields.io/badge/🌎%20My%20portfolio-blue" alt="Mi Portafolio"  height="35px">
+</a>
+👈 
+</h1>
 ![freeCodeCamp](https://img.shields.io/freecodecamp/points/daniel_manosalva)
 
 ![Banned](https://source.unsplash.com/random/900x300/?galaxy,city,space,night,cyberpunk,fantasy,dark)
