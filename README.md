@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-manosalva-000b98242/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/dannkol) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-manosalva-000b98242/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dannkol) 
 
 
 # 💻 Tech Stack:
@@ -33,10 +33,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dannkol&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dannkol&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannkol&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🏆 GitHub Trophies
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannkol&show_icons=true&theme=radical)
 
 
 # 🔝 Top Repo
@@ -45,7 +41,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dannkol&repo=Landig-formadera&theme=radical)](https://github.com/Dannkol/Landig-formadera)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dannkol&repo=menus&theme=radical)](https://github.com/Dannkol/menus) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dannkol&repo=menus&theme=radical)](https://github.com/Dannkol/menus) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dannkol&repo=InmobiliApp&theme=radical)](https://github.com/Dannkol/InmobiliApp)
 
